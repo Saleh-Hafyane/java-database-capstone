@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import java.util.Map;
 
 /**
- * DashboardController
+ * DashboardController class
  * Serves as the gatekeeper for Thymeleaf views by validating tokens
  * before allowing access to sensitive dashboard templates.
  */
